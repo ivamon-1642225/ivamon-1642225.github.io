@@ -1,0 +1,8 @@
+#floaty {
+  display: block;
+  float: right;
+  background-color: cyan;
+  width: 200px;
+  height: 200px;
+  border-radius: 25px;
+}
