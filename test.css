@@ -29,6 +29,7 @@
   padding: 15px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 34px;
 }
 
 #Footer{
@@ -40,11 +41,13 @@
 ul {
   padding-left: 0px;
   list-style-type: none;
+  border: solid 1px black;
 }
 
 p {
   color: white;
   font-family: "Arial";
+  box-shadow: 10px 10px;
 }
 
 h3 {
@@ -56,4 +59,14 @@ h3 {
 
 div {
   background-color: #8E41D5; 
+}
+
+body {
+  background-image: url("dark_wood.png");
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
 }
