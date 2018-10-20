@@ -27,6 +27,8 @@
   border: solid 8px black; 
   text-align: center;
   padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #Footer{
@@ -38,4 +40,20 @@
 ul {
   padding-left: 0px;
   list-style-type: none;
+}
+
+p {
+  color: white;
+  font-family: "Arial";
+}
+
+h3 {
+   color: #FFBC00;
+  font-size: 40px;
+  font-family: "Passion One";
+  margin-bottom: 0px;
+}
+
+div {
+  background-color: #8E41D5; 
 }
