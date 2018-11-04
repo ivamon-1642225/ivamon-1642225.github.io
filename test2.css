@@ -6,8 +6,21 @@ body {
 .form-horizontal {
   border-color: red;
   background-color: beige;
+  padding: 40px;
 }
 
 label {
   font-weight: bold;
+}
+
+field-set {
+  color: beige;
+}
+
+.form-group {
+  color: beige;
+}
+
+.btn-primary {
+  width: 100px;
 }
